@@ -21,7 +21,8 @@ Console.WriteLine("=============================================================
 
 var elevatorService = new ElevatorService(floorCount, elevatorCount, capacityCount, floorPeopleCount);
 
-ConsoleExtensions.ElevatorDownAnimation();
+//UnComment this for an attempt at an elevator loading screen. For fun.
+//ConsoleExtensions.ElevatorDownAnimation();
 
 while (true)
 {
