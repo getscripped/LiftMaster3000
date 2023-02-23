@@ -18,7 +18,6 @@ public class ElevatorServiceTests
          _elevatorCount = 3;
          _capacityCount = 10;
          _floorPeopleCount = 10;
-         _elevatorService = new ElevatorService(_floorCount, _elevatorCount, _capacityCount, _floorPeopleCount);
     }
 
     /// <summary>
@@ -28,7 +27,8 @@ public class ElevatorServiceTests
     public void Creating_Services_Returns_Valid_Service()
     {
         //arrange
-
+        _elevatorService = new ElevatorService(_floorCount, _elevatorCount, _capacityCount, _floorPeopleCount);
+        
         //act
         var elevatorPos1 =_elevatorService.GetElevatorPosition(0);
         var elevatorPos2 =_elevatorService.GetElevatorPosition(1);
@@ -47,6 +47,8 @@ public class ElevatorServiceTests
     [Test]
     public async Task Calling_Elevator_Should_Pick_Closest_One()
     {
+        //arrange
+        _elevatorService = new ElevatorService(_floorCount, _elevatorCount, _capacityCount, _floorPeopleCount);
         
         //act
         await _elevatorService.CallElevatorAsync(3, Enums.ElevatorDirections.UP, 3);
@@ -69,7 +71,8 @@ public class ElevatorServiceTests
     public async Task Moving_An_Elevator_Should_Move_People()
     {
         //arrange
-
+        _elevatorService = new ElevatorService(_floorCount, _elevatorCount, _capacityCount, _floorPeopleCount);
+        
         //act
         await _elevatorService.CallElevatorAsync(3, Enums.ElevatorDirections.UP, 3);
         await _elevatorService.SendToDestinationAsync(3, 5, Enums.ElevatorDirections.UP);
@@ -78,6 +81,23 @@ public class ElevatorServiceTests
         var numberOfPeople = _elevatorService.GetFloorPersonCount(5);
 
         Assert.That(numberOfPeople, Is.EqualTo(13));
+
+    }
+    
+    [Test]
+    public async Task Moving_An_Elevator_To_The_Same_Floor_Should_Not_Move_People()
+    {
+        //arrange
+        _elevatorService = new ElevatorService(_floorCount, _elevatorCount, _capacityCount, _floorPeopleCount);
+        
+        //act
+        await _elevatorService.CallElevatorAsync(3, Enums.ElevatorDirections.UP, 3);
+        await _elevatorService.SendToDestinationAsync(3, 3, Enums.ElevatorDirections.UP);
+        
+        //assert
+        var numberOfPeople = _elevatorService.GetFloorPersonCount(5);
+
+        Assert.That(numberOfPeople, Is.EqualTo(10));
 
     }
 }
