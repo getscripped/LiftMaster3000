@@ -1,0 +1,321 @@
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\testhost.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.deps.json
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.runtimeconfig.json
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.exe
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\testhost.exe
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\nunit.engine.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\nunit.engine.api.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\nunit.engine.core.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\testcentric.engine.metadata.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMasterTesting.deps.json
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMasterTesting.runtimeconfig.json
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMasterTesting.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMasterTesting.pdb
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.pdb
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.csproj.AssemblyReference.cache
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.AssemblyInfoInputs.cache
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.AssemblyInfo.cs
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.csproj.CoreCompileInputs.cache
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.csproj.CopyComplete
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\refint\LiftMasterTesting.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.pdb
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.genruntimeconfig.cache
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\ref\LiftMasterTesting.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\testhost.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.deps.json
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.runtimeconfig.json
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.exe
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\testhost.exe
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\nunit.engine.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\nunit.engine.api.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\nunit.engine.core.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\testcentric.engine.metadata.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMasterTesting.deps.json
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMasterTesting.runtimeconfig.json
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMasterTesting.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMasterTesting.pdb
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\nunit.framework.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.dll
+D:\LiftMaster 3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.pdb
+D:\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.csproj.AssemblyReference.cache
+D:\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.AssemblyInfoInputs.cache
+D:\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.AssemblyInfo.cs
+D:\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.csproj.CoreCompileInputs.cache
+D:\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.csproj.CopyComplete
+D:\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.dll
+D:\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\refint\LiftMasterTesting.dll
+D:\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.pdb
+D:\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.genruntimeconfig.cache
+D:\LiftMaster 3000\LiftMasterTesting\obj\Debug\net7.0\ref\LiftMasterTesting.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\testhost.exe
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\testhost.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\nunit.engine.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\nunit.engine.api.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\nunit.engine.core.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\testcentric.engine.metadata.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.deps.json
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.runtimeconfig.json
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.exe
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\LiftMasterTesting.deps.json
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\LiftMasterTesting.runtimeconfig.json
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\LiftMasterTesting.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\LiftMasterTesting.pdb
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\bin\Debug\net7.0\LiftMaster 3000.pdb
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.csproj.AssemblyReference.cache
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.AssemblyInfoInputs.cache
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.AssemblyInfo.cs
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.csproj.CoreCompileInputs.cache
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.csproj.CopyComplete
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\obj\Debug\net7.0\refint\LiftMasterTesting.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.pdb
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\obj\Debug\net7.0\LiftMasterTesting.genruntimeconfig.cache
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMasterTesting\obj\Debug\net7.0\ref\LiftMasterTesting.dll

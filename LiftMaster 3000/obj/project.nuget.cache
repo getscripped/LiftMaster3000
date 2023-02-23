@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uazqLzzbPqnjuBpUrqgDZnqVONJoi0FqtEiE/zTRUuRoqeyaBaXs3b9oO9Js3awh61YApqndFNRSc0j0man/Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reuben-Legion\\LiftMaster3000\\LiftMaster 3000\\LiftMaster 3000.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reuben-Legion\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Reuben-Legion\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

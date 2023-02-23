@@ -1,0 +1,54 @@
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.exe
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.deps.json
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.runtimeconfig.json
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.pdb
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.csproj.AssemblyReference.cache
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.AssemblyInfoInputs.cache
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.AssemblyInfo.cs
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.csproj.CoreCompileInputs.cache
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.csproj.CopyComplete
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\refint\LiftMaster 3000.dll
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.pdb
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.genruntimeconfig.cache
+C:\Users\Pc\RiderProjects\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\ref\LiftMaster 3000.dll
+D:\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.exe
+D:\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.deps.json
+D:\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.runtimeconfig.json
+D:\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.dll
+D:\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.pdb
+D:\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LiftMaster 3000\LiftMaster 3000\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.csproj.AssemblyReference.cache
+D:\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.GeneratedMSBuildEditorConfig.editorconfig
+D:\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.AssemblyInfoInputs.cache
+D:\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.AssemblyInfo.cs
+D:\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.csproj.CoreCompileInputs.cache
+D:\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.csproj.CopyComplete
+D:\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.dll
+D:\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\refint\LiftMaster 3000.dll
+D:\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.pdb
+D:\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.genruntimeconfig.cache
+D:\LiftMaster 3000\LiftMaster 3000\obj\Debug\net7.0\ref\LiftMaster 3000.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.exe
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.deps.json
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.runtimeconfig.json
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\bin\Debug\net7.0\LiftMaster 3000.pdb
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.csproj.AssemblyReference.cache
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.AssemblyInfoInputs.cache
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.AssemblyInfo.cs
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.csproj.CoreCompileInputs.cache
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.csproj.CopyComplete
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\obj\Debug\net7.0\refint\LiftMaster 3000.dll
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.pdb
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\obj\Debug\net7.0\LiftMaster 3000.genruntimeconfig.cache
+C:\Users\Reuben-Legion\LiftMaster3000\LiftMaster 3000\obj\Debug\net7.0\ref\LiftMaster 3000.dll
